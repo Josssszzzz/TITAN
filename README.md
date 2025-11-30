@@ -59,12 +59,12 @@ pip3 install wafw00f uro
 
 **1. Asignar Permisos de Ejecución:**
 ```bash
-chmod +x titan_ultimate.sh
+chmod +x titan.sh
 ```
 
 **2. Iniciar Secuencia de Ataque:**
 ```bash
-./titan_ultimate.sh target.com
+./titan.sh target.com
 ```
 
 > **⛔ WARNING // OPSEC ALERT**
